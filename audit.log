@@ -1,0 +1,42 @@
+2025/02/27 16:20:03 2025-02-27 16:20:03 | ✅ SUCCESS | File: Encryption /tmp/TestFileEncryptionDecryption2034899216/001/plain.txt
+
+2025/02/27 16:20:03 2025-02-27 16:20:03 | ✅ SUCCESS | File: Decryption /tmp/TestFileEncryptionDecryption2034899216/001/encrypted.enc
+
+2025/02/27 16:20:03 2025-02-27 16:20:03 | ✅ SUCCESS | File: Encryption /tmp/TestDirectoryEncryptionDecryption117627966/001/input/file1.txt
+
+2025/02/27 16:20:03 2025-02-27 16:20:03 | ✅ SUCCESS | File: Encryption /tmp/TestDirectoryEncryptionDecryption117627966/001/input/subdir1/file2.txt
+
+2025/02/27 16:20:03 2025-02-27 16:20:03 | ✅ SUCCESS | File: Encryption /tmp/TestDirectoryEncryptionDecryption117627966/001/input/subdir2/file3.txt
+
+2025/02/27 16:20:03 2025-02-27 16:20:03 | ✅ SUCCESS | File: Decryption /tmp/TestDirectoryEncryptionDecryption117627966/001/encrypted/file1.txt.enc
+
+2025/02/27 16:20:03 2025-02-27 16:20:03 | ✅ SUCCESS | File: Decryption /tmp/TestDirectoryEncryptionDecryption117627966/001/encrypted/subdir1/file2.txt.enc
+
+2025/02/27 16:20:03 2025-02-27 16:20:03 | ✅ SUCCESS | File: Decryption /tmp/TestDirectoryEncryptionDecryption117627966/001/encrypted/subdir2/file3.txt.enc
+
+2025/02/27 16:20:03 2025-02-27 16:20:03 | ✅ SUCCESS | File: Encryption /tmp/TestHMACVerification4267333552/001/plain.txt
+
+2025/02/27 16:20:03 2025-02-27 16:20:03 | ❌ FAILED | File: Tamper Detection /tmp/TestHMACVerification4267333552/001/encrypted.enc
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ✅ SUCCESS | File: Encryption /tmp/TestFileEncryptionDecryption997067478/001/plain.txt
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ✅ SUCCESS | File: Decryption /tmp/TestFileEncryptionDecryption997067478/001/encrypted.enc
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ✅ SUCCESS | File: Encryption /tmp/TestDirectoryEncryptionDecryption3293601442/001/input/file1.txt
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ✅ SUCCESS | File: Encryption /tmp/TestDirectoryEncryptionDecryption3293601442/001/input/subdir1/file2.txt
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ✅ SUCCESS | File: Encryption /tmp/TestDirectoryEncryptionDecryption3293601442/001/input/subdir2/file3.txt
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ✅ SUCCESS | File: Decryption /tmp/TestDirectoryEncryptionDecryption3293601442/001/encrypted/file1.txt.enc
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ✅ SUCCESS | File: Decryption /tmp/TestDirectoryEncryptionDecryption3293601442/001/encrypted/subdir1/file2.txt.enc
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ✅ SUCCESS | File: Decryption /tmp/TestDirectoryEncryptionDecryption3293601442/001/encrypted/subdir2/file3.txt.enc
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ✅ SUCCESS | File: Encryption /tmp/TestHMACVerification3287725711/001/plain.txt
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ❌ FAILED | File: Tamper Detection /tmp/TestHMACVerification3287725711/001/encrypted.enc
+
+2025/02/27 16:21:31 2025-02-27 16:21:31 | ✅ SUCCESS | File: Decryption /tmp/TestHMACVerification3287725711/001/encrypted.enc
+
